@@ -1,12 +1,8 @@
-
-win32 {
-DEFINES += BUILDTIME=\\\"$$system('echo %time%')\\\"
-DEFINES += BUILDDATE=\\\"$$system('echo %date%')\\\"
-} else {
-DEFINES += BUILDTIME=\\\"$$system(date '+%H:%M:%S')\\\"
-DEFINES += BUILDDATE=\\\"$$system(date '+%Y/%m/%d')\\\"
-}
-
+# Version=0.0.1
+#
+# Dependencies
+#
+#
 
 RESOURCES += \
     $$PWD/font.qrc \
