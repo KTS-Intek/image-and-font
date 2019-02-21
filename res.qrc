@@ -261,5 +261,7 @@
         <file>katynko/Twilight_description_full_day.svg</file>
         <file>katynko/Twilight_subcategories.svg</file>
         <file>katynko/logo4-dark-splash.png</file>
+        <file>katynko/svg4/electric-water-red.svg</file>
+        <file>katynko/svg4/electric-water.svg</file>
     </qresource>
 </RCC>
