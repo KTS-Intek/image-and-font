@@ -263,5 +263,8 @@
         <file>katynko/logo4-dark-splash.png</file>
         <file>katynko/svg4/electric-water-red.svg</file>
         <file>katynko/svg4/electric-water.svg</file>
+        <file>katynko/svg3/user-online-yellow-red.svg</file>
+        <file>katynko/svg3/user-online-red.svg</file>
+        <file>katynko/svg4/db-cyan.svg</file>
     </qresource>
 </RCC>
