@@ -268,5 +268,6 @@
         <file>katynko/svg4/db-cyan.svg</file>
         <file>katynko/svg4/applications-menu.svg</file>
         <file>katynko/label-print-def.png</file>
+        <file>katynko/png/osbb-online.png</file>
     </qresource>
 </RCC>
