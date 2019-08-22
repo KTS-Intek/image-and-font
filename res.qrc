@@ -269,5 +269,19 @@
         <file>katynko/svg4/applications-menu.svg</file>
         <file>katynko/label-print-def.png</file>
         <file>katynko/png/osbb-online.png</file>
+        <file>katynko/svg4/actiontemplates017.svg</file>
+        <file>katynko/svg4/actionview026.svg</file>
+        <file>katynko/svg4/harddisk_16.svg</file>
+        <file>katynko/svg4/hldoctp.svg</file>
+        <file>katynko/svg4/landscape_32.svg</file>
+        <file>katynko/svg4/lc_formatpaintbrush.svg</file>
+        <file>katynko/svg4/lx03250.svg</file>
+        <file>katynko/svg4/morebutton.svg</file>
+        <file>katynko/svg4/portrait_32.svg</file>
+        <file>katynko/svg4/sc_expandpage.svg</file>
+        <file>katynko/svg4/sc_inserthyperlink.svg</file>
+        <file>katynko/svg4/sc_insertobject.svg</file>
+        <file>katynko/svg4/sc_ungroup.svg</file>
+        <file>katynko/svg4/sidebar-imganim-large.svg</file>
     </qresource>
 </RCC>
