@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="sidebar-navigator-noth.svg"
+   inkscape:export-filename="/home/uri/Descargas/NITRUX-KDE/NITRUX-KDE/16x16/actions/view-preview.png"
+   inkscape:export-xdpi="30"
+   inkscape:export-ydpi="30">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="46.669048"
+     inkscape:cx="12.356201"
+     inkscape:cy="12.202754"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="3,21"
+       orientation="18,0"
+       id="guide4064"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4066"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4068"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4070"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,20"
+       orientation="16,0"
+       id="guide4072"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4,4"
+       orientation="0,16"
+       id="guide4074"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,4"
+       orientation="-16,0"
+       id="guide4076"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-16"
+       id="guide4078"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4080"
+       originx="1"
+       originy="1"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="opacity:1;fill:#f9f9f9;fill-opacity:0.23529412;stroke:none;stroke-opacity:1"
+     d="m 6.3431458,6.3431458 c -3.1241941,3.1241943 -3.1241941,8.1895142 0,11.3137082 3.1241943,3.124194 8.1895142,3.124194 11.3137082,0 3.124194,-3.124194 3.124194,-8.1895139 0,-11.3137082 -3.124194,-3.1241941 -8.1895139,-3.1241941 -11.3137082,0 z m 0.7071067,0.7071067 c 2.73367,-2.7336698 7.1658245,-2.7336698 9.8994945,0 2.73367,2.73367 2.73367,7.1658245 0,9.8994945 -2.73367,2.73367 -7.1658245,2.73367 -9.8994945,0 -2.7336698,-2.73367 -2.7336698,-7.1658245 0,-9.8994945 z"
+     id="path4175"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssss" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="11.292281"
+     y="17"
+     id="text827"><tspan
+       sodipodi:role="line"
+       id="tspan825"
+       x="11.292281"
+       y="21.423828" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.82373047px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="9.0147095"
+     y="15.058943"
+     id="text831"
+     transform="scale(1.0058212,0.99421247)"><tspan
+       sodipodi:role="line"
+       id="tspan829"
+       x="9.0147095"
+       y="15.058943"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.82373047px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:1px">N</tspan></text>
+  <path
+     style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 12,6 13.030403,7.5456041 14,9 H 12.599357 10 Z"
+     id="path839"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+</svg>

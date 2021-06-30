@@ -15,9 +15,7 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    viewBox="0 0 22 22"
-   sodipodi:docname="document-save-red.svg">
-  <title
-     id="title4152">I REALLY hate this icon</title>
+   sodipodi:docname="flag-green-marker.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,63 +25,82 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="-15.495033"
-     inkscape:cy="11.442155"
+     inkscape:zoom="45.675"
+     inkscape:cx="6.2894986"
+     inkscape:cy="12.526478"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-7"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     borderlayer="true"
+     units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="0"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     units="px">
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4120" />
     <sodipodi:guide
        position="2,20.000017"
        orientation="18,0"
-       id="guide4085"
+       id="guide4126"
        inkscape:locked="false" />
     <sodipodi:guide
        position="2,2.0000174"
        orientation="0,18"
-       id="guide4087"
+       id="guide4128"
        inkscape:locked="false" />
     <sodipodi:guide
        position="20,2.0000174"
        orientation="-18,0"
-       id="guide4089"
+       id="guide4130"
        inkscape:locked="false" />
     <sodipodi:guide
        position="20,20.000017"
        orientation="0,-18"
-       id="guide4091"
+       id="guide4132"
        inkscape:locked="false" />
     <sodipodi:guide
        position="3,19.000017"
        orientation="16,0"
-       id="guide4093"
+       id="guide4134"
        inkscape:locked="false" />
     <sodipodi:guide
        position="3,3.0000174"
        orientation="0,16"
-       id="guide4095"
+       id="guide4136"
        inkscape:locked="false" />
     <sodipodi:guide
        position="19,3.0000174"
        orientation="-16,0"
-       id="guide4097"
+       id="guide4138"
        inkscape:locked="false" />
     <sodipodi:guide
        position="19,19.000017"
        orientation="0,-16"
-       id="guide4099"
+       id="guide4140"
        inkscape:locked="false" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid4101" />
+    <sodipodi:guide
+       position="12.999983,19.000017"
+       orientation="6,0"
+       id="guide4195"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.999983,13.000017"
+       orientation="0,6.0000172"
+       id="guide4197"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19,13.000017"
+       orientation="-6,0"
+       id="guide4199"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19,19.000017"
+       orientation="0,-6.0000172"
+       id="guide4201"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -93,22 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>I REALLY hate this icon</dc:title>
-        <dc:description>Migh as well use Tango... for crying out loud. This damn icon has to die, but no because obviously we're still using floppies therefore it is still relevant in 2014.</dc:description>
-        <dc:language>English</dc:language>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:rights>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Uri Herrera</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:date>November 20th 2014</dc:date>
-        <cc:license
-           rdf:resource="" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,15 +119,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <g
-       id="layer1-7"
-       inkscape:label="Capa 1">
-      <path
-         id="rect4126"
-         transform="translate(0,1030.3622)"
-         d="m 3,3 0,1 0,15 1,0 15,0 0,-1 0,-11 0,-0.6992188 -0.0078,0 L 19,6.2929688 15.707031,3 15.699231,3.00781 15.699231,3 15,3 3,3 Z M 4,4 7,4 7,8 7,9 15,9 15,8 15,4 15.292969,4 18,6.7070312 18,7 l 0,11 -2,0 0,-7 -1,0 -8,0 -1,0 0,7 -2,0 0,-14 z m 4,0 3.900391,0 0,4 L 8,8 8,4 Z m -1,8 8,0 0,6 -8,0 0,-6 z"
-         style="fill:#ff0000;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       style="opacity:1;fill:#00b300;fill-opacity:1;stroke:none;stroke-width:1"
+       d="m 4.0000001,1033.3622 v 10 h 9.6428579 3.214285 l 1.071429,-1 1.071428,-1 -1.071428,-2 1.071428,-2 -1.071428,-2 1.071428,-2 h -4.285714 z"
+       id="path4132"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 3,1033.3622 v 16 h 1 v -7 -9 z"
+       id="rect4112"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

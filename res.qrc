@@ -283,5 +283,55 @@
         <file>katynko/svg4/sc_insertobject.svg</file>
         <file>katynko/svg4/sc_ungroup.svg</file>
         <file>katynko/svg4/sidebar-imganim-large.svg</file>
+        <file>katynko/svg4/lc_browseview-white.svg</file>
+        <file>katynko/svg4/network-disconnect-white.svg</file>
+        <file>katynko/svg4/text-x-opml+xml-white.svg</file>
+        <file>katynko/svg4/go-previous-white.svg</file>
+        <file>katynko/svg4/draw-cross-white.svg</file>
+        <file>katynko/kts-intek-emb-logo.png</file>
+        <file>katynko/svg4/network-disconnect-red.svg</file>
+        <file>katynko/logokts.png</file>
+        <file>katynko/geo/scale_end.svg</file>
+        <file>katynko/geo/scale.svg</file>
+        <file>katynko/geo/sidebar-navigator-noth.svg</file>
+        <file>katynko/geo/lc_browseview-white.svg</file>
+        <file>katynko/geo/sidebar-imganim-large-white.svg</file>
+        <file>katynko/svg4/draw-minus-white.svg</file>
+        <file>katynko/svg4/application-pkcs7-mime2-white.svg</file>
+        <file>katynko/geo/simple-circle.svg</file>
+        <file>katynko/geo/page-zoom-white.svg</file>
+        <file>katynko/geo/edit-select-all-white.svg</file>
+        <file>katynko/svg4/applications-menu-white.svg</file>
+        <file>katynko/svg4/sc_ungroup-white.svg</file>
+        <file>katynko/white-theme-icons/go-next.svg</file>
+        <file>katynko/white-theme-icons/go-previous.svg</file>
+        <file>katynko/geo/flag-green-marker.svg</file>
+        <file>katynko/white-theme-icons/go-jump-declaration.svg</file>
+        <file>katynko/white-theme-icons/im-gadugadu.svg</file>
+        <file>katynko/white-theme-icons/insert-horizontal-rule.svg</file>
+        <file>katynko/white-theme-icons/key-white.svg</file>
+        <file>katynko/white-theme-icons/office-chart-area-focus-peak-node.svg</file>
+        <file>katynko/white-theme-icons/office-chart-area-percentage.svg</file>
+        <file>katynko/white-theme-icons/system-suspend-hibernate.svg</file>
+        <file>katynko/geo/map-white.svg</file>
+        <file>katynko/geo/measure.svg</file>
+        <file>katynko/svg4/emblem-important.svg</file>
+        <file>katynko/svg4/exwarning.svg</file>
+        <file>katynko/svg4/folder-templates.svg</file>
+        <file>katynko/svg4/jo01.svg</file>
+        <file>katynko/svg4/lc_grafluminance.svg</file>
+        <file>katynko/svg4/sc_formatpaintbrush.svg</file>
+        <file>katynko/printing/document-print-direct-nobackground.svg</file>
+        <file>katynko/printing/document-print-direct.svg</file>
+        <file>katynko/svg4/gas-meter.svg</file>
+        <file>katynko/svg4/pulse-meter.svg</file>
+        <file>katynko/svg5/dstv_low.svg</file>
+        <file>katynko/svg5/gtk-index.svg</file>
+        <file>katynko/svg5/lc_tabdialog.svg</file>
+        <file>katynko/svg5/nc20006.svg</file>
+        <file>katynko/svg5/sc10851.svg</file>
+        <file>katynko/svg5/sc_grid.svg</file>
+        <file>katynko/svg5/sc_inserttable.svg</file>
+        <file>katynko/svg5/sc_linestyle.svg</file>
     </qresource>
 </RCC>

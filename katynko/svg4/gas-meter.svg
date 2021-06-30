@@ -9,14 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   id="svg3109"
+   width="24"
+   height="24"
+   id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="application-exit.svg">
+   viewBox="0 0 24 24"
+   sodipodi:docname="gas-meter.svg">
   <defs
-     id="defs3111" />
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,79 +25,80 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.137491"
-     inkscape:cx="-1.1177821"
-     inkscape:cy="9.2001395"
+     inkscape:zoom="32.625"
+     inkscape:cx="4.2227497"
+     inkscape:cy="10.489298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4108"
-       originx="-1.0000233"
-       originy="-1.0000029"
-       spacingx="1"
-       spacingy="1" />
+     inkscape:snap-bbox="true">
     <sodipodi:guide
-       position="2,20"
+       position="3,21"
        orientation="18,0"
-       id="guide4114"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2,2"
-       orientation="0,18"
-       id="guide4116"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="20,2"
-       orientation="-18,0"
-       id="guide4118"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="20,20"
-       orientation="0,-18"
-       id="guide4120"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3,19"
-       orientation="16,0"
-       id="guide4122"
-       inkscape:locked="false" />
+       id="guide4066" />
     <sodipodi:guide
        position="3,3"
+       orientation="0,18"
+       id="guide4068" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4070" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4072" />
+    <sodipodi:guide
+       position="4,20"
+       orientation="16,0"
+       id="guide4074" />
+    <sodipodi:guide
+       position="4,4"
        orientation="0,16"
-       id="guide4124"
-       inkscape:locked="false" />
+       id="guide4076" />
     <sodipodi:guide
-       position="19,3"
+       position="20,4"
        orientation="-16,0"
-       id="guide4126"
-       inkscape:locked="false" />
+       id="guide4078" />
     <sodipodi:guide
-       position="19,19"
+       position="20,20"
        orientation="0,-16"
-       id="guide4128"
-       inkscape:locked="false" />
+       id="guide4080" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4101"
+       originx="1px"
+       originy="0.99998262px" />
+    <sodipodi:guide
+       position="9,20"
+       orientation="0,-5"
+       id="guide4124" />
+    <sodipodi:guide
+       position="12,4"
+       orientation="0,4"
+       id="guide4241" />
   </sodipodi:namedview>
   <metadata
-     id="metadata3114">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,11 +106,12 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-534.14288,-579.07648)">
+     transform="translate(1,-1029.3622)">
     <path
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 7 L 3 19 L 4 19 L 18 19 L 19 19 L 19 18 L 19 6 L 19 3 L 4 3 L 3 3 z M 4 7 L 18 7 L 18 18 L 4 18 L 4 7 z M 8 11 L 8 13 L 14 13 L 14 11 L 8 11 z "
-       transform="translate(534.14288,579.07648)"
-       id="rect4141" />
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       d="m 13,1040.3622 -4,4 -1,-1 -5,5 0,1 8,0 3,0 1,0 1,0 1,0 2,0 0,-2 0,-1 0,0 -2,-2 -1,-1 -1,-1 z"
+       id="rect4112"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
   </g>
 </svg>
