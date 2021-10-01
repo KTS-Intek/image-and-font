@@ -333,5 +333,8 @@
         <file>katynko/svg5/sc_grid.svg</file>
         <file>katynko/svg5/sc_inserttable.svg</file>
         <file>katynko/svg5/sc_linestyle.svg</file>
+        <file>katynko/svg5/modbus-l.svg</file>
+        <file>katynko/svg5/db-something-green.svg</file>
+        <file>katynko/svg5/db-empty-red.svg</file>
     </qresource>
 </RCC>
