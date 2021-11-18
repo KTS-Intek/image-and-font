@@ -336,5 +336,6 @@
         <file>katynko/svg5/modbus-l.svg</file>
         <file>katynko/svg5/db-something-green.svg</file>
         <file>katynko/svg5/db-empty-red.svg</file>
+        <file>katynko/svg5/db-nall.svg</file>
     </qresource>
 </RCC>
