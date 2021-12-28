@@ -337,5 +337,9 @@
         <file>katynko/svg5/db-something-green.svg</file>
         <file>katynko/svg5/db-empty-red.svg</file>
         <file>katynko/svg5/db-nall.svg</file>
+        <file>katynko/svg5/view-readermode-http.svg</file>
+        <file>katynko/svg5/lc_dbtableedit-http.svg</file>
+        <file>katynko/svg5/run-build-http.svg</file>
+        <file>katynko/svg5/jo01-http.svg</file>
     </qresource>
 </RCC>
