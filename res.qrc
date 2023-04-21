@@ -341,5 +341,9 @@
         <file>katynko/svg5/lc_dbtableedit-http.svg</file>
         <file>katynko/svg5/run-build-http.svg</file>
         <file>katynko/svg5/jo01-http.svg</file>
+        <file>katynko/svg5/frame-unchecked.svg</file>
+        <file>katynko/svg5/frame-checked.svg</file>
+        <file>katynko/svg5/dashboard-show-mirr.svg</file>
+        <file>katynko/svg5/gtk-index-mirr.svg</file>
     </qresource>
 </RCC>
